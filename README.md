@@ -1,2 +1,2 @@
 # petnica-golang-2026
-Uvodna golang radionica
+Introductory golang workshop
