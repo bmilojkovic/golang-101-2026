@@ -1,2 +1,3 @@
 # petnica-golang-2026
-Introductory golang workshop
+
+![golang](https://pbs.twimg.com/media/EuxVxGBXcAIwzpq?format=jpg&name=medium)
